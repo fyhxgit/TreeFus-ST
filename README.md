@@ -24,6 +24,8 @@ The enhanced node representation is obtained by combining self information, pare
 ```text
 TreeFus-ST/
 ├── core_scripts/
+├── database/
+├── model_TreeFus-ST/
 ├── package-stage-1/
 ├── tDCF_python/
 ├── .gitignore
