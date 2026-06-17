@@ -1,0 +1,13 @@
+# Install torch, torchvision, and torchaudio according to your CUDA version first.
+# Example: see https://pytorch.org/get-started/locally/
+
+numpy>=1.19.2
+librosa>=0.8.0
+joblib>=1.0.1
+PyYAML>=5.4.1
+tensorboardX>=2.2
+SoundFile
+tqdm
+scipy
+torchaudio
+torchvision
